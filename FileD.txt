@@ -1,1 +1,2 @@
 This is file D 
+this is fast forword merge 
