@@ -1,1 +1,2 @@
 This is file A version 1
+this is for fast forword merge 
